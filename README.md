@@ -1,5 +1,5 @@
 # Pyquiz
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/IslanP1/Pyquiz-RN/blob/main/LICENSE.md) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/luizfernandoin/LandingPage-Pyquiz/blob/main/LICENSE.md) 
 
 # Sobre o projeto
 
